@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="Privacy_Title" xml:space="preserve">
+    <value>Política de Privacidad</value>
+  </data>
+  <data name="Privacy_Description" xml:space="preserve">
+    <value>Utiliza esta página para detallar la política de privacidad de tu sitio.</value>
+  </data>
+</root>

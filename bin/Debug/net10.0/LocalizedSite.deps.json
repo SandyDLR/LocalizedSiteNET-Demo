@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LocalizedSite/1.0.0": {
+        "runtime": {
+          "LocalizedSite.dll": {}
+        },
+        "resources": {
+          "es/LocalizedSite.resources.dll": {
+            "locale": "es"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LocalizedSite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
