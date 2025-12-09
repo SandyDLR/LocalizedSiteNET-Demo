@@ -48,7 +48,9 @@
                                 @(
                                     currentCulture == "en" ? "🇺🇸 English" :
                                     currentCulture == "es" ? "🇪🇸 Español" :
-                                    "🇮🇹 Italiano"
+                                    currentCulture == "it" ? "🇮🇹 Italiano":
+                                    currentCulture == "de" ? "🇩🇪 Deutsch":
+                                    "🇫🇷 Français"
                                 )
                             </a>
 
@@ -72,6 +74,18 @@
                                     <a class="dropdown-item @(currentCulture == "it" ? "fw-bold" : "")"
                                     href="?culture=it&ui-culture=it">
                                         🇮🇹 Italiano
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item @(currentCulture == "de" ? "fw-bold" : "")"
+                                    href="?culture=it&ui-culture=it">
+                                        🇩🇪 Deutsch
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="dropdown-item @(currentCulture == "fr" ? "fw-bold" : "")"
+                                    href="?culture=it&ui-culture=it">
+                                        🇫🇷 Français
                                     </a>
                                 </li>
 
