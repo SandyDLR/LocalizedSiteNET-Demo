@@ -1,8 +1,6 @@
 services:
   - type: web
     name: localizedsite
-    runtime: manual
+    runtime: docker
     plan: free
-    buildCommand: "dotnet publish -c Release -o out"
-    startCommand: "dotnet out/LocalizedSite.dll"
 

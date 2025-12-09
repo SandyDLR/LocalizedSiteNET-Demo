@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocalizedSite")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute(" ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7f66fc099d231db6e97f590d4a31d4e2d0f5c67")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocalizedSite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocalizedSite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

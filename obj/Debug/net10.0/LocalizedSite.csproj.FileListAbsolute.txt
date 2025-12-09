@@ -23,6 +23,7 @@
 /Users/sandydelarosa/Desktop/LocalizedSite/obj/Debug/net10.0/LocalizedSite.MvcApplicationPartsAssemblyInfo.cache
 /Users/sandydelarosa/Desktop/LocalizedSite/obj/Debug/net10.0/LocalizedSite.RazorAssemblyInfo.cache
 /Users/sandydelarosa/Desktop/LocalizedSite/obj/Debug/net10.0/LocalizedSite.RazorAssemblyInfo.cs
+/Users/sandydelarosa/Desktop/LocalizedSite/obj/Debug/net10.0/LocalizedSite.sourcelink.json
 /Users/sandydelarosa/Desktop/LocalizedSite/obj/Debug/net10.0/es/LocalizedSite.resources.cs
 /Users/sandydelarosa/Desktop/LocalizedSite/obj/Debug/net10.0/es/LocalizedSite.resources.dll
 /Users/sandydelarosa/Desktop/LocalizedSite/obj/Debug/net10.0/rjimswa.dswa.cache.json
