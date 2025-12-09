@@ -4,3 +4,15 @@ filters:
   source_file: Resources/SharedResources.resx
   source_language: en
   translation_files_expression: 'Resources/SharedResources.<lang>.resx'
+
+- filter_type: file
+  file_format: RESX
+  source_file: Resources/Views/Home/Privacy.resx
+  source_language: en
+  translation_files_expression: 'Resources/Views/Home/Privacy.<lang>.resx'
+
+- filter_type: file
+  file_format: RESX
+  source_file: Resources/Views/Shared/_Layout.resx
+  source_language: en
+  translation_files_expression: 'Resources/Views/Shared/_Layout.<lang>.resx'
