@@ -1,7 +1,8 @@
 services:
   - type: web
     name: localizedsite
-    env: dotnet
+    runtime: manual
     plan: free
     buildCommand: "dotnet publish -c Release -o out"
     startCommand: "dotnet out/LocalizedSite.dll"
+
