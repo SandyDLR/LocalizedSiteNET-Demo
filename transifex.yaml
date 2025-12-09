@@ -1,6 +1,6 @@
 filters:
-- filter_type: dynamic
+- filter_type: file
   file_format: RESX
+  source_file: Resources/SharedResources.resx
   source_language: en
-  source_files_expression: Resources/<dir>/<file>.resx
-  translation_files_expression: 'Resources/<dir>/<lang>/<file>.<lang>.resx'
+  translation_files_expression: 'Resources/SharedResources.<lang>.resx'
