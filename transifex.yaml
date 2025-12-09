@@ -3,4 +3,4 @@ filters:
   file_format: RESX
   source_language: en
   source_files_expression: Resources/<dir>/<file>.resx
-  translation_files_expression: 'Resources/<dir>/<lang>/<file>.<lang>.po'
+  translation_files_expression: 'Resources/<dir>/<lang>/<file>.<lang>.resx'
