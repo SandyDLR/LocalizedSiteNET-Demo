@@ -11,6 +11,9 @@
           "LocalizedSite.dll": {}
         },
         "resources": {
+          "de/LocalizedSite.resources.dll": {
+            "locale": "de"
+          },
           "es/LocalizedSite.resources.dll": {
             "locale": "es"
           },
