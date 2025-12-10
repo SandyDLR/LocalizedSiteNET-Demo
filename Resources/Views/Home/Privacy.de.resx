@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="Privacy_Title" xml:space="preserve">
+    <value>Datenschutzerklärung</value>
+  </data>
+  <data name="Privacy_Description" xml:space="preserve">
+    <value>Verwenden Sie diese Seite, um die Datenschutzrichtlinie Ihrer Website im Detail darzustellen.</value>
+  </data>
+</root>
